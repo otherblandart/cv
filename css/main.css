@@ -1,0 +1,10 @@
+.img {
+  clip-path: circle(100px at center);
+}
+table {
+  border: 1px solid gainsboro;
+  border-collapse:collapse;
+}
+td, th {
+  padding: .5rem 1rem;
+}
